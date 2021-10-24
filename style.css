@@ -1,0 +1,50 @@
+body {
+    font-family: system-ui;
+    background: #363946;
+    color: white;
+    text-align: center;
+}
+  
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+  
+.full-width {
+    width: 100%;
+}
+
+.hero-image {
+    max-height: 100px;
+    margin-top: 240px;
+}
+
+.hero-statement {
+    margin-top: 24px;
+    margin-bottom: 260px;
+    color: #f3ba19;
+}
+  
+.item {
+    width: 200px;
+    margin: 8px;
+    word-wrap: break-word;
+    text-align: left;
+}
+  
+.mock-image {
+    height: 200px;
+    width: 200px;
+    margin: 8px 0px;
+    background: #f9fafb;
+    border-radius: 10px;
+}
+
+.color-palette {
+    width: 500px;  
+    padding: 36px;
+    margin-top: 16px;
+    background: white;
+    border-radius: 25px;
+}
